@@ -95,7 +95,7 @@ Combined multiple graphs to compare:
 
 ## Tools & Libraries Used
 
-- Python 🐍
+- Python
 - Pandas
 - NumPy
 - Matplotlib
